@@ -6,7 +6,7 @@ monitoramento contínuo de glicemia em pessoas que necessitam de controle e trat
 ## Componetes utilizados
 
 ### TTGO T7 V1.3 MINI 32 ESP32
-[Ver item](https://amzn.to/4ithNLv)
+[Ver item](https://amzn.to/3Dk4xtZ)
 
 Uma versão compacta desenvolvida pela LiLyGO. Essa placa mantém
 todas as características do ESP32, com a vantagem de ser menor em tamanho.
